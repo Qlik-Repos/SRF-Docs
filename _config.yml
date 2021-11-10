@@ -1,1 +1,14 @@
+google_analytics: UA-9103769-2
+# Name of website
+title: SRF
+description: The Qlik Sense Security Rules Framework
 theme: jekyll-theme-hacker
+
+author: Marc Collins (Senior Principal Technical Architect)
+navbar-links:
+  Home: "https://qlik-repos.github.io/SRF-Docs/"
+  Change Log: "./docs/ChangeLog.md"
+  Resources:
+    - Roles: "./docs/roles/ReadMe.md"
+    - Security Rules: "./docs/SecurityRules/ReadMe.md"
+    - Custom Properties: "./docs/CustomProperties/ReadMe.md"
