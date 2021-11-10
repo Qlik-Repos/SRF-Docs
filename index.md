@@ -41,7 +41,7 @@ The SRF includes the following:
 ### Resource Authorisation
 The SRF includes flexible Authorisation Models. The authorisation applied is controlled via Custom Properties. This reduces/removes the need and associated risk of creation, updating and deleting rules directly. It is anticipated that certain edge cases may need modifications to these base rules. 
 
-A resource specifically refers to: Data Connections, Extensions and Content Libraries. The custom property, `@groupswithaccess`, controls which user groups can read the resource.
+A resource specifically refers to: Analtyics Connections, Apps, Content Libraries, Data Connections, Extensions and Streams . The custom property, `@groupswithaccess`, controls which user groups can read the resource.
 -	Null or Not Defined: the resource is not available to general users. It is available to site administrators such as Content Admins.
 -	When defined the value of the custom property is compared to the user. If the comparison results in True, the resource is available. It is suggested that if a resource should be available to all users then a specific group is established that includes all users. I.e. Qlik_Access.
 

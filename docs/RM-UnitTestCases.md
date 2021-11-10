@@ -8,9 +8,9 @@ The Excel Unit Test cases has been update with the following changes.
 - Configured Editable Ranges on unit Test Cases
 - Protected Work Sheets (Without Password)
 
-![UnitTestCase_Responses](./docs/Images/UnitTestCases/301/UnitTestCase_Responses.png)
+![UnitTestCase_Responses](./Images/UnitTestCases/301/UnitTestCase_Responses.png)
 
-![UnitTestCase_Summary_Incomplete](./docs/Images/UnitTestCases/301/UnitTestCase_Summary_Incomplete.png)
+![UnitTestCase_Summary_Incomplete](./Images/UnitTestCases/301/UnitTestCase_Summary_Incomplete.png)
 
-![UnitTestCase_Summary_Complete](./docs/Images/UnitTestCases/301/UnitTestCase_Summary_Complete.png)
+![UnitTestCase_Summary_Complete](./Images/UnitTestCases/301/UnitTestCase_Summary_Complete.png)
 
