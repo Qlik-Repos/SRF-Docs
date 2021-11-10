@@ -18,7 +18,7 @@ e.g. **QC_ReloadTasks_Read|Developers**
   - `QC_<Resource>_<Actions>|<CustomProperty>`
   - `QC_<Resource>_<Type>_<Actions>|<CustomProperty>`
 
-e.g. "**QC_Apps_Resource_Read|GWA**"
+e.g. `QC_Apps_Resource_Read|GWA`
 
 | Segment        | Value                                   |
 | -------------- | --------------------------------------- |
@@ -26,7 +26,7 @@ e.g. "**QC_Apps_Resource_Read|GWA**"
 | Access         | Read                                    |
 | Control | GWA (Custom Property: GroupsWithAccess) |
 
-e.g. "**QC_AppObjects_Sheets_Publish|RWP**"
+e.g. `QC_AppObjects_Sheets_Publish|RWP`
 
 | Segment        | Value                                   |
 | -------------- | --------------------------------------- |
